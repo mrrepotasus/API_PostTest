@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import io.restassured.http.ContentType;
 
 public class TestPost {
-
+//	postTest 21
 	@Test
 	public void testPost() {
 		//https://reqres.in/api/users

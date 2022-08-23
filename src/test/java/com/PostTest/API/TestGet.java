@@ -9,7 +9,7 @@ import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
 public class TestGet {
-
+//	postTest 21
 String endpoint = "https://mern-backend-8881.herokuapp.com/products";
 	
 	@Test
